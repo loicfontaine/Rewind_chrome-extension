@@ -1,0 +1,28 @@
+      body {
+          font-family: "Segoe UI";
+          padding: 10px;
+          width: 300px;
+          background-color: #f4f6f9;
+          display: flex;
+          align-items: center;
+          flex-direction: column;
+          gap: 10px;
+      }
+
+      img {
+          width: 50%;
+      }
+
+      button {
+          background-color: #3b50ea;
+          color: white;
+          border: none;
+          padding: 10px;
+          cursor: pointer;
+          width: 50%;
+          border-radius: 0.375rem;
+      }
+
+      button:hover {
+          background-color: #4d618a;
+      }
